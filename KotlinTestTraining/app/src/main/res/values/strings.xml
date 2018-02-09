@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">KotlinRobots</string>
+  <string name="soma">Soma</string>
+  <string name="somar">Somar</string>
+  <string name="firstNumber">Primeiro Number</string>
+  <string name="secondNumber">Second Número</string>
+</resources>
